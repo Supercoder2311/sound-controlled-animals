@@ -1,0 +1,34 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background: pink;
+}
+
+.header_div{
+    background: white;
+    color: gray;
+}
+
+.header_div p{
+    font-family: sans-serif;
+    color:gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width:130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+position: fixed;
+color: blue;
+bottom:0;
+width: 100%;
+font-size: 18px;
+background-color: white;
+line-height: 3;
+text-align: center;
+}
